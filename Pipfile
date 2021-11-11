@@ -5,6 +5,7 @@ name = "pypi"
 
 [packages]
 mkdocs = "*"
+mdx-truly-sane-lists = "*"
 
 [dev-packages]
 
