@@ -23,6 +23,5 @@ Tutte le info qui sono spannometriche e vanno verificate
 
 ## Riferimenti
 
-- https://www.altroconsumo.it/soldi/lavoro-pensione/news/fondo-pensione-riavere-indietro-i-soldi
-- https://finanzacafona.it/2020/05/fondo-pensione-integrativa-investimento.html
-
+- <https://www.altroconsumo.it/soldi/lavoro-pensione/news/fondo-pensione-riavere-indietro-i-soldi>
+- <https://finanzacafona.it/2020/05/fondo-pensione-integrativa-investimento.html>
