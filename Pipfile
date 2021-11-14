@@ -6,6 +6,9 @@ name = "pypi"
 [packages]
 mkdocs = "*"
 mdx-truly-sane-lists = "*"
+mkdocs-awesome-pages-plugin = "*"
+mkdocs-ezlinks-plugin = "*"
+mkdocs-material = "*"
 
 [dev-packages]
 

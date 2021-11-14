@@ -1,4 +1,25 @@
 site_name: Finanza Personale
 
 markdown_extensions:
-  - mdx_truly_sane_lists
+  - mdx_truly_sane_lists  # allow 2 space indent
+  - pymdownx.highlight
+  - pymdownx.superfences
+
+plugins:
+  - search:
+      lang: 
+        - it
+        - en
+  - awesome-pages
+  - ezlinks
+
+theme:
+  name: material
+  language: it
+  palette:
+    primary: green
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.indexes
+    - search.highlight
