@@ -26,7 +26,3 @@ pipenv run mkdocs gh-deploy
 
 Dopo qualche minuto le modifiche dovrebbero essere live
 
-## Stile
-
-- I nomi dei file non contengono spazi e le parole sono separate da `-`
-
