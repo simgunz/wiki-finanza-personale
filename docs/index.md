@@ -5,6 +5,7 @@ Benvenuto nella Wiki di finanza personale.
 ## Pagine rilevanti
 
 - [Idee di discussione](idee-discussione.md)
+- [Incontri](incontri.md)
 - [Risorse](risorse.md)
 
 ## Scrivere la wiki
