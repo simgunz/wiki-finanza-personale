@@ -7,6 +7,7 @@
 ## Blog
 
 - [Finanza cafona](https://finanzacafona.it/)
+- [Sossoldi](https://sossoldi.org/)
 
 ## Wiki
 
