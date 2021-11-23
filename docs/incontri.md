@@ -12,6 +12,11 @@
 
 **Oratore:** Daniele D.
 
+**Compiti per casa pre-incontro:**
+
+- Accedere al portale INPS e consultare la propria pagina `Estratto conto contributivo` e `La mia pensione futura`.
+- Iniziare a buttare un occhio al funzionamento del proprio fondo pensione di categoria (ad esempio per i metalmeccanici è cometa).
+
 ## 16/11/2021
 
 **Tema:** Brainstorming temi di discussione, presentazione wiki e discussione iniziale su TFR e fondi pensione integrativi
