@@ -14,7 +14,7 @@
 
 **Compiti per casa pre-incontro:**
 
-- Accedere al portale INPS e consultare la propria pagina `Estratto conto contributivo` e `La mia pensione futura`.
+- Accedere al portale INPS e consultare la propria pagina [Estratto conto contributivo](https://www.inps.it/prestazioni-servizi/consultazione-estratto-conto-contributivoprevidenziale) e [La mia pensione futura](https://www.inps.it/prestazioni-servizi/la-mia-pensione-futura-simulazione-della-propria-pensione).
 - Iniziare a buttare un occhio al funzionamento del proprio fondo pensione di categoria (ad esempio per i metalmeccanici è cometa).
 
 ## 16/11/2021
