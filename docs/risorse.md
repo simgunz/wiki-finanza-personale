@@ -7,6 +7,7 @@
 ## Blog
 
 - [Finanza cafona](https://finanzacafona.it/)
+- [Retire In Progress](https://retireinprogress.com/)
 - [Sossoldi](https://sossoldi.org/)
 
 ## Wiki
