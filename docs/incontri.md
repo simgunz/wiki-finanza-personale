@@ -27,9 +27,11 @@ Gli incontri si tengono il secondo e quarto martedì del mese
 
 - Iniziare a buttare un occhio al funzionamento del proprio fondo pensione di categoria (ad esempio per i metalmeccanici è cometa).
 
-**Registrazione:**
+**Registrazioni:**
 
+[Video](https://drive.google.com/file/d/1Xwl-cOVANMlF_u8Tr-INnP2kmih_gYcV/view?usp=sharing)
 
+[Audio](https://drive.google.com/file/d/1viCfRwo--6zK48W2ccyFlcTk0Vhh78xd/view?usp=sharing)
 
 ## 16/11/2021
 
