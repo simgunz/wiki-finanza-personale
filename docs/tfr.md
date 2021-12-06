@@ -6,8 +6,7 @@
 
 
 -  La rivalutazione annua del TFR è del 1,5% + 75% del tasso di inflazione (che si aggira sui 1.2 %)
-  - quando me lo danno verrà applicata l’aliquota IRPEF media di tassazione dei cinque anni antecedenti la cessazione dell’attività lavorativa
-  - garantito dall'INPS
+-  È garantito dall'INPS quando viene mantenuto in azienda
 - Posso destinarlo al [fondo pensione](fondo-pensione.md)
 
 ## Tassazione
