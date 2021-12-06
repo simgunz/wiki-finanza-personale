@@ -339,15 +339,8 @@
     <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
       
         <li class="md-nav__item">
-  <a href="#dipendenti-pubblici" class="md-nav__link">
-    Dipendenti pubblici
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#dipendenti-di-unazienda-privata" class="md-nav__link">
-    Dipendenti di un'azienda privata
+  <a href="#tassazione" class="md-nav__link">
+    Tassazione
   </a>
   
 </li>
@@ -395,15 +388,8 @@
     <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
       
         <li class="md-nav__item">
-  <a href="#dipendenti-pubblici" class="md-nav__link">
-    Dipendenti pubblici
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#dipendenti-di-unazienda-privata" class="md-nav__link">
-    Dipendenti di un'azienda privata
+  <a href="#tassazione" class="md-nav__link">
+    Tassazione
   </a>
   
 </li>
@@ -429,27 +415,38 @@
                 
                 
                 <h1 id="trattamento-di-fine-rapporto-tfr">Trattamento di fine rapporto (TFR)</h1>
-<h2 id="dipendenti-pubblici">Dipendenti pubblici</h2>
 <ul>
-<li>TFR annuo = RAL * 0.0691 dello stipendio lordo annuo</li>
+<li>TFR annuo = (RAL / 13.5) - (RAL * 0.005) = RAL * 0.069074</li>
 </ul>
-<h2 id="dipendenti-di-unazienda-privata">Dipendenti di un'azienda privata</h2>
 <ul>
-<li>TFR annuo = (RAL / 13.5) * 0.95 = RAL * 0.0704</li>
-</ul>
-<p>Tutte le info qui sono spannometriche e vanno verificate</p>
-<ul>
-<li>TFR annuo = 6.91 % dello stipendio lordo annuo<ul>
-<li>Se lo destino in azienda:</li>
-</ul>
-</li>
-<li>ha una rendita fissa del 1,5% + 75% del tasso di inflazione (che si aggira sui 1.2 %)<ul>
+<li>La rivalutazione annua del TFR è del 1,5% + 75% del tasso di inflazione (che si aggira sui 1.2 %)<ul>
 <li>quando me lo danno verrà applicata l’aliquota IRPEF media di tassazione dei cinque anni antecedenti la cessazione dell’attività lavorativa</li>
 <li>garantito dall'INPS</li>
 </ul>
 </li>
 <li>Posso destinarlo al <a href="../fondo-pensione/">fondo pensione</a></li>
 </ul>
+<h2 id="tassazione">Tassazione</h2>
+<ol>
+<li>
+<p>Calcolo la base imponibile equivalente</p>
+<div class="highlight"><pre><span></span><code>BIE = TFR_lordo * 12 / anni_lavorati
+</code></pre></div>
+</li>
+<li>
+<p>Calcolo l'aliquota equivalente <code>AE</code> applicando gli scaglioni IRPEF a <code>BIE</code></p>
+</li>
+<li>
+<p>Calcolo l'aliquota media</p>
+<div class="highlight"><pre><span></span><code>AM = AE / BIE
+</code></pre></div>
+</li>
+<li>
+<p>Calcolo il TFR netto</p>
+<div class="highlight"><pre><span></span><code>TFR_netto = TFR_lordo * (1 - AM)
+</code></pre></div>
+</li>
+</ol>
 <h2 id="riferimenti">Riferimenti</h2>
 <ul>
 <li><a href="https://www.inps.it/prestazioni-servizi/il-trattamento-di-fine-rapporto-tfr-per-i-dipendenti-pubblici">INPS - TFR dipendenti pubblici</a></li>
