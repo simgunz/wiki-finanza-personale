@@ -2,24 +2,35 @@
 
 # Trattamento di fine rapporto (TFR)
 
-## Dipendenti pubblici
+- TFR annuo = (RAL / 13.5) - (RAL * 0.005) = RAL * 0.069074
 
-- TFR annuo = RAL * 0.0691 dello stipendio lordo annuo
 
-## Dipendenti di un'azienda privata
-
-- TFR annuo = (RAL / 13.5) * 0.95 = RAL * 0.0704
-
-  
-
-Tutte le info qui sono spannometriche e vanno verificate
-
-- TFR annuo = 6.91 % dello stipendio lordo annuo
-  - Se lo destino in azienda:
--  ha una rendita fissa del 1,5% + 75% del tasso di inflazione (che si aggira sui 1.2 %)
+-  La rivalutazione annua del TFR è del 1,5% + 75% del tasso di inflazione (che si aggira sui 1.2 %)
   - quando me lo danno verrà applicata l’aliquota IRPEF media di tassazione dei cinque anni antecedenti la cessazione dell’attività lavorativa
   - garantito dall'INPS
 - Posso destinarlo al [fondo pensione](fondo-pensione.md)
+
+## Tassazione
+
+1. Calcolo la base imponibile equivalente
+
+   ```
+   BIE = TFR_lordo * 12 / anni_lavorati
+   ```
+
+2. Calcolo l'aliquota equivalente `AE` applicando gli scaglioni IRPEF a `BIE`
+
+3. Calcolo l'aliquota media
+
+   ```
+   AM = AE / BIE
+   ```
+
+4. Calcolo il TFR netto
+
+   ```
+   TFR_netto = TFR_lordo * (1 - AM)
+   ```
 
 ## Riferimenti
 
