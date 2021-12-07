@@ -1,6 +1,6 @@
 # Incontri di discussione 
 
-Gli incontri si tengono il secondo e quarto martedì del mese
+Gli incontri si tengono il secondo e quarto martedì del mese alle 21:00 ora Italiana
 
 # 18/01/2022
 
