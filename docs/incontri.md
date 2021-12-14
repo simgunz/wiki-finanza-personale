@@ -2,7 +2,7 @@
 
 Gli incontri si tengono il secondo e quarto martedì del mese alle 21:00 ora Italiana su [Google Meet](https://meet.google.com/tkd-yavi-evb)
 
-# 18/01/2022
+# 11/01/2022
 
 **Tema:** Pensioni: analisi della propria situazione pensionistica, simulazioni fondo pensione integrativo
 
