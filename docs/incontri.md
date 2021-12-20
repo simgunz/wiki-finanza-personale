@@ -2,7 +2,7 @@
 
 Gli incontri si tengono il secondo e quarto martedì del mese alle 21:00 ora Italiana su [Google Meet](https://meet.google.com/tkd-yavi-evb)
 
-# 11/01/2022
+## 11/01/2022
 
 **Tema:** Pensioni: analisi della propria situazione pensionistica, simulazioni fondo pensione integrativo
 
@@ -13,9 +13,15 @@ Gli incontri si tengono il secondo e quarto martedì del mese alle 21:00 ora Ita
 
 ## 14/12/2021
 
-**Tema:** ETF
+**Tema:** Fondamentali su investimenti azionari/obbligazionari e ETF
 
 **Oratore:** Gianluca G.
+
+**Registrazioni:**
+
+[Video](https://drive.google.com/file/d/1Z3XNkMDgrfcUrrsk6AirrRwtaP4UG57o/view?usp=sharing)
+
+[Audio](https://drive.google.com/file/d/1Ks68DctpxJ2bFzG9wOohf9RWgdLRTKwX/view?usp=sharing)
 
 ## 30/11/2021
 
