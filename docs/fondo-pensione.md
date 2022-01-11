@@ -17,6 +17,28 @@
   - solo tfr? o tutti i soldi del fondo?
   - se non perdo i requisiti per un fondo chiuso, posso chiudere il fondo e farmi dare i soldi al 23% risparmiando quindi rispetto al 38% che pagherei se lo tenessi in azienda?
 
+## Fondi pensione di categoria
+
+### Fonte
+
+**Contratto:** commercio
+
+**Contributo volontario minimo lavoratore:** 0,55 % della retribuzione utile per il computo del TFR
+
+**Contributo datore di lavoro:** 1,55 % della retribuzione utile per il computo del TFR
+
+**Costo quota associativa:** 22,00 (paga solo lavoratore o anche datore?)
+
+#### Riferiementi
+
+https://www.contrattocommercio.it/
+
+https://www.contrattocommercio.it/art-107-fondo-di-previdenza-complementare-fon-te
+
+https://www.fondofonte.it/wp-content/uploads/2021/09/01_09_2021Scheda-Costi.pdf
+
+https://www.fondofonte.it/i-comparti-di-investimento/
+
 ## Riferimenti
 
 [ItaliaPersonalFinance Wiki](https://old.reddit.com/r/ItaliaPersonalFinance/wiki/index#wiki_strumenti_previdenziali.3A_pensioni)
