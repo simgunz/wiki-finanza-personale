@@ -39,6 +39,8 @@ Gli incontri si tengono il secondo e quarto martedì del mese alle 21:00 ora Ita
 
 [Audio](https://drive.google.com/file/d/1viCfRwo--6zK48W2ccyFlcTk0Vhh78xd/view?usp=sharing)
 
+[Presentazione](https://drive.google.com/file/d/1al14Xcx7cbOoxm7CIfbhMRb6fRMa3IuY/view?usp=sharing)
+
 ## 16/11/2021
 
 **Tema:** Brainstorming temi di discussione, presentazione wiki e discussione iniziale su TFR e fondi pensione integrativi
