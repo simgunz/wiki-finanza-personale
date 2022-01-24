@@ -19,6 +19,10 @@
 
 ## Fondi pensione di categoria
 
+- Per aziende con più di 50 dipendenti si viene iscritti al fondo in automatico se non si esprime una preferenza entro 6 mesi dall'assunzione
+- Se perdo i requisiti posso trasferire il capitale in un nuovo fondo
+- 
+
 ### Fonte
 
 **Contratto:** commercio
@@ -38,6 +42,14 @@ https://www.contrattocommercio.it/art-107-fondo-di-previdenza-complementare-fon-
 https://www.fondofonte.it/wp-content/uploads/2021/09/01_09_2021Scheda-Costi.pdf
 
 https://www.fondofonte.it/i-comparti-di-investimento/
+
+## Domande
+
+- È vero che avviene l'iscrizione automatica in azienda con più di 50 dipendenti?
+- Se trasferisco il capitale in un nuovo fondo mantengo gli anni di anzianità? (tassazione più bassa)
+- Posso versare solo il contributo volontario, senza versare il TFR?
+- Una volta che ho deciso la strategia di riscossione, posso cambiare?
+- La pensione contributiva viene adeguata all'inflazione?
 
 ## Riferimenti
 
