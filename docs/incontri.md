@@ -2,9 +2,51 @@
 
 Gli incontri si tengono il secondo e quarto martedì del mese alle 21:00 ora Italiana su [Google Meet](https://meet.google.com/tkd-yavi-evb)
 
+## 08/03/2022
+
+**Tema:** Conclusione tema fondi pensione
+
+**Oratore:**
+
+**Registrazioni:**
+
+## 22/02/2022
+
+**Tema:** Approfondimento su ETF
+
+**Oratore:** Jafet B.
+
+**Registrazioni:**
+
+## 08/02/2022
+
+**Tema:** Bollette luce e gas
+
+**Oratore:** Simone G., Daniele D., Stefano B.
+
+**Registrazioni:**
+
+## 25/01/2022
+
+**Tema:** Basi su strumenti di investimento più comuni
+
+**Oratore:** Valentina
+
+**Registrazioni:**
+
 ## 11/01/2022
 
-**Tema:** Pensioni: analisi della propria situazione pensionistica, simulazioni fondo pensione integrativo
+**Tema:** Pensioni: simulazioni fondo pensione integrativo
+
+**Oratore:** Simone G.
+
+**Excel:** [Simulazione fondo pensione](https://docs.google.com/spreadsheets/d/1EhqOGYieorkY-YO0vViuGgYwOwBrLJKqU3O6Bl4AoZU/edit?usp=sharing)
+
+**Registrazioni:**
+
+[Video](https://drive.google.com/file/d/1feBw5gNobqrvw3qMF_p2nzSpL43UCniC/view?usp=sharing)
+
+[Audio](https://drive.google.com/file/d/1NVO4DAK5T5qrRTb2GexYakHdk60tBWJ5/view?usp=sharing)
 
 **Compiti per casa pre-incontro:**
 
