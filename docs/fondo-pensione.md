@@ -45,13 +45,55 @@ https://www.fondofonte.it/i-comparti-di-investimento/
 
 ## Domande
 
-- È vero che avviene l'iscrizione automatica in azienda con più di 50 dipendenti?
-- Se trasferisco il capitale in un nuovo fondo mantengo gli anni di anzianità? (tassazione più bassa)
-- Posso versare solo il contributo volontario, senza versare il TFR?
-- Una volta che ho deciso la strategia di riscossione, posso cambiare?
-- La pensione contributiva viene adeguata all'inflazione?
+### È vero che avviene l'iscrizione automatica in azienda con più di 50 dipendenti?
+
+Sì, dopo 6 mesi se non si esprime preferenza. L'automatismo non c'è, quindi è il personale HR che fà l'iscrizione. Potrebbe essere dopo i 6 mesi.
+
+### Se trasferisco il capitale in un nuovo fondo mantengo gli anni di anzianità (tassazione più bassa)?
+
+Sì, l'anzianità viene mantenuta, anche passando a fondi aperti.
+
+### Cosa succede se perdo i requisiti?
+
+- Posso riscattare, tassato a 23%
+- Posso trasferire il lordo e mantengo anzianità.
+- Posso mantenere il fondo e se voglio posso fare versamenti volontari. Continuo a pagare le spese del fondo.
+
+### Posso versare solo il contributo volontario, senza versare il TFR?
+
+- No, tfr è un presupposto.
+
+### Una volta che ho deciso la strategia di riscossione, posso cambiare?
+
+...
+
+### La pensione contributiva viene adeguata all'inflazione?
+
+No (a parte il comparto super sicuro che funziona come tenerlo in azienda + 4% azionario)
+
+### Con la pensione vitalizia, se muoi perdo i soldi?
+
+Si
+
+### È possibile una reversibilità verso i figli?
+
+No
+
+### Quanto posso ritirare cash quando vado in pensione? 
+
+...
+
+### Come viene tassata la parte in cash?
+
+### Se inizio a versare TFR nel fondo, poi posso cambiare idea e smettere?
+
+No il TFR devi continuare a versarlo. Puoi smettere di versare il contributo volontario.
 
 ## Riferimenti
 
 [ItaliaPersonalFinance Wiki](https://old.reddit.com/r/ItaliaPersonalFinance/wiki/index#wiki_strumenti_previdenziali.3A_pensioni)
+
+[Altroconsumo Finanza – 08/01/2019 – N° 1300](https://drive.google.com/file/d/17ptC5IfNFeFeteh6bU5SlefKGSkpSCiH/view?usp=sharing)
+
+Telefonata con impiegata antipatica di fondo FONTE
 
