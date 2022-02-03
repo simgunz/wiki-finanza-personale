@@ -34,6 +34,10 @@ Gli incontri si tengono il secondo e quarto martedì del mese alle 21:00 ora Ita
 
 **Registrazioni:**
 
+[Video](https://drive.google.com/file/d/1x1xV5Sw9bQmNLzrbtNFbVlo7xjGgZdc8/view?usp=sharing)
+
+[Audio](https://drive.google.com/file/d/1HNwzm2XWx6mXSGZW6Lq9lTKUkTnZoR8_/view?usp=sharing)
+
 ## 11/01/2022
 
 **Tema:** Pensioni: simulazioni fondo pensione integrativo
