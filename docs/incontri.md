@@ -34,6 +34,10 @@ Gli incontri si tengono il secondo e quarto martedì del mese alle 21:00 ora Ita
 
 **Registrazioni:**
 
+[Video](https://drive.google.com/file/d/1tuVThQHvNPV526nWkDJMU4-Yf87Xb6qx/view?usp=sharing)
+
+[Audio](https://drive.google.com/file/d/1tuVThQHvNPV526nWkDJMU4-Yf87Xb6qx/view?usp=sharing)
+
 ## 25/01/2022
 
 **Tema:** Basi su strumenti di investimento più comuni
