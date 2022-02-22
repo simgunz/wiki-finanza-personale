@@ -2,6 +2,14 @@
 
 Gli incontri si tengono il secondo e quarto martedì del mese alle 21:00 ora Italiana su [Google Meet](https://meet.google.com/tkd-yavi-evb)
 
+## 05/04/2022
+
+**Tema:** Sessione pratica su ETF
+
+**Oratore:** Jafet B., Daniele D.
+
+**Registrazioni:**
+
 ## 22/03/2022
 
 **Tema:** Introduzione alle criptomonete
@@ -10,11 +18,11 @@ Gli incontri si tengono il secondo e quarto martedì del mese alle 21:00 ora Ita
 
 **Registrazioni:**
 
-## 08/03/2022
+## 07/03/2022
 
 **Tema:** Conclusione tema fondi pensione
 
-**Oratore:**
+**Oratore:** Daniele D., Simone G.
 
 **Registrazioni:**
 
