@@ -494,6 +494,37 @@
 <li>Per linkare un'altra pagina della wiki scrivere <code>[parole con il link](nome-file-pagina.md)</code> senza path ai file</li>
 <li>Per auto-linkare un URL scrivere <code>&lt;https://example.com&gt;</code></li>
 </ul>
+<h1 id="registrare">Registrare</h1>
+<ol>
+<li>
+<p>Identificare il sink delle cuffie</p>
+<div class="highlight"><pre><span></span><code>pactl list sinks
+</code></pre></div>
+<p>In questo caso è <code>bluez_output.5B_2C_3D_02_1A_48.a2dp-sink</code></p>
+</li>
+<li>
+<p>Identificare la source del microfono</p>
+<div class="highlight"><pre><span></span><code>pactl list sources
+</code></pre></div>
+<p>In questo caso è <code>alsa_input.pci-0000_00_1f.3.analog-stereo</code></p>
+</li>
+<li>
+<p>Creare i sink virtuali</p>
+<div class="highlight"><pre><span></span><code> pactl load-module module-null-sink media.class=Audio/Sink sink_name=recording sink_properties=device.description=recording
+ pactl load-module module-loopback source=alsa_input.pci-0000_00_1f.3.analog-stereo sink=recording 
+ pactl load-module module-combine-sink sink_name=combined sink_properties=device.description=combined slaves=recording,bluez_output.5B_2C_3D_02_1A_48.a2dp-sink
+</code></pre></div>
+</li>
+<li>
+<p>Impostare Google Meet per riprodurre su <code>combined</code></p>
+</li>
+<li>
+<p>Registrare l'audio da <code>recording</code></p>
+</li>
+<li>
+<p>Regolare il volume del microfono e di <code>combined</code> per avere un volume bilanciato su recording</p>
+</li>
+</ol>
                 
               
               
