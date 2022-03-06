@@ -1,4 +1,4 @@
-# DataEng Wiki
+# Investiti Wiki
 
 Sito live: https://simgunz.github.io/wiki-finanza-personale/
 
