@@ -21,7 +21,6 @@
 
 - Per aziende con più di 50 dipendenti si viene iscritti al fondo in automatico se non si esprime una preferenza entro 6 mesi dall'assunzione
 - Se perdo i requisiti posso trasferire il capitale in un nuovo fondo
-- 
 
 ### Fonte
 
@@ -35,13 +34,49 @@
 
 #### Riferiementi
 
-https://www.contrattocommercio.it/
+<https://www.contrattocommercio.it/>
 
-https://www.contrattocommercio.it/art-107-fondo-di-previdenza-complementare-fon-te
+<https://www.contrattocommercio.it/art-107-fondo-di-previdenza-complementare-fon-te>
 
-https://www.fondofonte.it/wp-content/uploads/2021/09/01_09_2021Scheda-Costi.pdf
+<https://www.fondofonte.it/wp-content/uploads/2021/09/01_09_2021Scheda-Costi.pdf>
 
-https://www.fondofonte.it/i-comparti-di-investimento/
+<https://www.fondofonte.it/i-comparti-di-investimento/>
+
+## Riscatto laurea
+
+Le seguenti analisi servono per farsi un idea sul riscatto della laurea e si basano sui dati di Daniele:
+
+- Nato nel '83
+- Inizio lavoro nel 2010
+
+Confronto dati pensionistici:
+
+1. Senza riscatto:
+
+```
+Pensione di vecchiaia (legata all’età anagrafica): 2052
+Pensione anticipata contributiva (riservata ai soggetti privi di anzianità contributiva al 31.12.1995): 2049
+Pensione anticipata: 2055. Quindi, essendo successiva alla vecchiaia (2052), non conseguibile.
+```
+
+2. Con riscatto di 5 anni nel periodo 01.11.2002/31.10.2007:
+
+```
+Pensione di vecchiaia (legata all’età anagrafica): 2052
+Pensione anticipata contributiva (riservata ai soggetti privi di anzianità contributiva al 31.12.1995): 2049
+Pensione anticipata: 2050.
+```
+
+Stanti così le cose non ha nessun senso riscattare la laurea, però potrebbe essere conveniente farlo comunque per i seguenti motivi:
+
+1. In futuro le regole potrebbero cambiare (vedi quota 100).
+2. I soldi versati fanno montante, quindi in ogni caso aumentano la pensione.
+3. I soldi versati si rivalutano (in proporzione al PIL).
+4. Oggi si stanno sbrigando le pratiche di diversi anni fa, facendo domanda entro fine anno si ha la certezza di quanto si paga (26.801 per 5 anni), gli interessi vengono considerati a partire da quest'anno, ma molto probabilmente si inizierà a pagare tra qualche anno.
+
+**Nota:** Non si guadagna niente rispetto alla pensione anticipata contributiva, che si può avere comunque nel 2049, anche senza riscatto.
+
+**Nota2:** Info importante, se andiamo a vedere le tabelle di oggi prevedono pensione di vecchiaia ordinaria a 67 anni (per Daniele nel 2050), ma non considerano l'aumento di speranza di vita che può essere ≤ 3 mesi/2 anni.
 
 ## Domande
 
@@ -79,7 +114,7 @@ Si
 
 No
 
-### Quanto posso ritirare cash quando vado in pensione? 
+### Quanto posso ritirare cash quando vado in pensione?
 
 ...
 
@@ -96,4 +131,3 @@ No il TFR devi continuare a versarlo. Puoi smettere di versare il contributo vol
 [Altroconsumo Finanza – 08/01/2019 – N° 1300](https://drive.google.com/file/d/17ptC5IfNFeFeteh6bU5SlefKGSkpSCiH/view?usp=sharing)
 
 Telefonata con impiegata antipatica di fondo FONTE
-
