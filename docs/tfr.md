@@ -18,7 +18,11 @@
    BIE = TFR_lordo * 12 / anni_lavorati
    ```
 
-2. Calcolo l'aliquota equivalente `AE` applicando gli scaglioni IRPEF a `BIE`
+   - `anni_lavorati` in azienda specifica
+
+   - `BIE ~= 0.88 * RAL_medio`
+
+2. Calcolo il valore assoluto dell'aliquota equivalente `AE` applicando gli scaglioni IRPEF a `BIE`
 
 3. Calcolo l'aliquota media
 
