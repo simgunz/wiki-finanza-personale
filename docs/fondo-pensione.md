@@ -93,6 +93,8 @@ Sì, l'anzianità viene mantenuta, anche passando a fondi aperti.
 - Posso riscattare, tassato a 23%
 - Posso trasferire il lordo e mantengo anzianità.
 - Posso mantenere il fondo e se voglio posso fare versamenti volontari. Continuo a pagare le spese del fondo.
+  - Posso poi chiuderlo quando voglio?
+
 
 ### Posso versare solo il contributo volontario, senza versare il TFR?
 
@@ -116,13 +118,19 @@ No
 
 ### Quanto posso ritirare cash quando vado in pensione?
 
-...
+50 %
 
 ### Come viene tassata la parte in cash?
+
+(Fonte) Se iscritto da almeno 5 anni tassata al 15% o meno in base a anzianità
 
 ### Se inizio a versare TFR nel fondo, poi posso cambiare idea e smettere?
 
 No il TFR devi continuare a versarlo. Puoi smettere di versare il contributo volontario.
+
+### La pensione reversibile è cumulabile con la pensione del partner?
+
+
 
 ## Riferimenti
 
