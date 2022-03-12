@@ -25,6 +25,11 @@ Gli incontri si tengono il secondo e quarto martedì del mese alle 21:00 ora Ita
 **Oratore:** Daniele D., Simone G.
 
 **Registrazioni:**
+[Video](https://drive.google.com/file/d/1SpCIusP1rsb2xRz1cW2RKHtyw6RorudQ/view?usp=sharing)
+
+[Audio](https://drive.google.com/file/d/160Duq9C6vZqfnIhObkr_f8iEh-1fra7v/view?usp=sharing)
+
+[Presentazione](https://docs.google.com/presentation/d/1tjRCs_HfJabbgRdfFiW6tUIOflQmm58Lpy3Mbippa34/edit?usp=sharing)
 
 ## 22/02/2022
 
@@ -33,6 +38,10 @@ Gli incontri si tengono il secondo e quarto martedì del mese alle 21:00 ora Ita
 **Oratore:** Jafet B.
 
 **Registrazioni:**
+
+[Video](https://drive.google.com/file/d/1uDz0A7GqWh__W3TzYqjad9ra3gaPCjry/view?usp=sharing)
+
+[Audio](https://drive.google.com/file/d/1_1VCkFRZVot4g37RaXraIFCBunIV_UtV/view?usp=sharing)
 
 ## 08/02/2022
 
@@ -46,6 +55,8 @@ Gli incontri si tengono il secondo e quarto martedì del mese alle 21:00 ora Ita
 
 [Audio](https://drive.google.com/file/d/1tuVThQHvNPV526nWkDJMU4-Yf87Xb6qx/view?usp=sharing)
 
+[Presentazione](https://docs.google.com/presentation/d/1kXk1l8xjFCyc_CLv_TTj1VjcVPxfqlPtzSC3LUNyZwc/edit?usp=sharing)
+
 ## 25/01/2022
 
 **Tema:** Basi su strumenti di investimento più comuni
@@ -57,6 +68,8 @@ Gli incontri si tengono il secondo e quarto martedì del mese alle 21:00 ora Ita
 [Video](https://drive.google.com/file/d/1x1xV5Sw9bQmNLzrbtNFbVlo7xjGgZdc8/view?usp=sharing)
 
 [Audio](https://drive.google.com/file/d/1HNwzm2XWx6mXSGZW6Lq9lTKUkTnZoR8_/view?usp=sharing)
+
+[Presentazione](https://docs.google.com/presentation/d/1kXk1l8xjFCyc_CLv_TTj1VjcVPxfqlPtzSC3LUNyZwc/edit?usp=sharing)
 
 ## 11/01/2022
 
