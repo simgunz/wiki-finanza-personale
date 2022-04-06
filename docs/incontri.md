@@ -2,15 +2,25 @@
 
 Gli incontri si tengono il secondo e quarto martedì del mese alle 21:00 ora Italiana su [Google Meet](https://meet.google.com/tkd-yavi-evb)
 
-## 05/04/2022
+## 17/04/2022
 
-**Tema:** Sessione pratica su ETF
+**Tema:** Discussione su bontà del portfolio ETF virtuale di tutti
 
-**Oratore:** Jafet B., Daniele D.
+**Oratore:** Discussione
 
 **Registrazioni:**
 
-## 22/03/2022
+[Video]()
+
+[Audio]()
+
+[Presentazione]()
+
+**Compiti per casa pre-incontro:**
+
+- Identificare 2-3 ETF con cui comporre il proprio portfolio usando i criteri spiegati da Jafet nelle puntate precedenti
+
+## 26/04/2022
 
 **Tema:** Introduzione alle criptomonete
 
@@ -18,7 +28,41 @@ Gli incontri si tengono il secondo e quarto martedì del mese alle 21:00 ora Ita
 
 **Registrazioni:**
 
-## 07/03/2022
+[Video]()
+
+[Audio]()
+
+[Presentazione]()
+
+## 05/04/2022
+
+**Tema:** Approfondimento su ETF parte 2
+
+**Oratore:** Jafet B.
+
+**Registrazioni:**
+
+[Video](https://drive.google.com/file/d/1Jg8pvO02gHD40ASaiNOCNGmst-IqUrzy/view?usp=sharing)
+
+[Audio](https://drive.google.com/file/d/1fzGhXuV-HVDR1czgg6XfrR8FQdxvRSx9/view?usp=sharing)
+
+[Presentazione](https://drive.google.com/file/d/1fzGhXuV-HVDR1czgg6XfrR8FQdxvRSx9/view?usp=sharing)
+
+## 22/03/2022
+
+**Tema:** Acquisto prima casa
+
+**Oratore:** Simone G.
+
+**Registrazioni:**
+
+[Video](https://drive.google.com/file/d/1pzQfk8nqMZ8P34cvv6bqwiJAoihA1ARY/view?usp=sharing)
+
+[Audio](https://drive.google.com/file/d/1OcAFWaVbF49xJcKRjb_-FUiuhWM4bhgv/view?usp=sharing)
+
+[Presentazione](https://docs.google.com/presentation/d/1IdW49i-_KbX-BgU98DTTGAQYP7DNTPcVOd2ebIt_FV0/edit?usp=sharing)
+
+## 08/03/2022
 
 **Tema:** Conclusione tema fondi pensione
 
