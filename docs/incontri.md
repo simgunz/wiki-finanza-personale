@@ -28,11 +28,11 @@ Gli incontri si tengono il secondo e quarto martedì del mese alle 21:00 ora Ita
 
 **Registrazioni:**
 
-[Video]()
+[Video](https://drive.google.com/file/d/1BvnPZt-_AxsYJ8l0L4l_PIq0ByaiHXls/view?usp=sharing)
 
-[Audio]()
+[Audio](https://drive.google.com/file/d/1WTd2w-IUj8vKQvFLHHrSF3G797VVwmIl/view?usp=sharing)
 
-[Presentazione]()
+[Presentazione](https://docs.google.com/presentation/d/1LXUuhQJrT_uj9keSuwNp1EVnQHkp4KAGulGhSmh7d7E/edit?usp=sharing)
 
 ## 05/04/2022
 
