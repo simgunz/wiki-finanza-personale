@@ -2,7 +2,7 @@
 
 Gli incontri si tengono il secondo e quarto martedì del mese alle 21:00 ora Italiana su [Google Meet](https://meet.google.com/tkd-yavi-evb)
 
-## 17/04/2022
+## 17/05/2022
 
 **Tema:** Discussione su bontà del portfolio ETF virtuale di tutti
 
