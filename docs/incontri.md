@@ -2,6 +2,24 @@
 
 Gli incontri si tengono il secondo e quarto martedì del mese alle 21:00 ora Italiana su [Google Meet](https://meet.google.com/tkd-yavi-evb)
 
+## 27/06/2022
+
+**Tema:** NFT
+
+**Oratore:** Simone G.
+
+## 13/06/2022
+
+**Tema:** Criptomonte 2
+
+**Oratore:** Simone G.
+
+## 30/05/2022
+
+**Tema:** ETF tematici
+
+**Oratore:** Stefano B.
+
 ## 17/05/2022
 
 **Tema:** Discussione su bontà del portfolio ETF virtuale di tutti
