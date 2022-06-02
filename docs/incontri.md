@@ -4,9 +4,9 @@ Gli incontri si tengono il secondo e quarto martedì del mese alle 21:00 ora Ita
 
 ## 27/06/2022
 
-**Tema:** NFT
+**Tema:** ETF mercati emergenti
 
-**Oratore:** Simone G.
+**Oratore:** Valentina
 
 ## 13/06/2022
 
@@ -19,6 +19,12 @@ Gli incontri si tengono il secondo e quarto martedì del mese alle 21:00 ora Ita
 **Tema:** ETF tematici
 
 **Oratore:** Stefano B.
+
+[Video](https://drive.google.com/file/d/1k8TSP4vInpX63pLqv6GmNrY5b8WQoyxi/view?usp=sharing)
+
+[Audio](https://drive.google.com/file/d/1k8TSP4vInpX63pLqv6GmNrY5b8WQoyxi/view?usp=sharing)
+
+[Presentazione](https://docs.google.com/presentation/d/1CwSW5pZr8GsdEyCw6bDDvE4WLNyY9B2JJayWNC9HvB4/edit?usp=sharing)
 
 ## 17/05/2022
 
