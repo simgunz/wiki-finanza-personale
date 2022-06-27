@@ -8,6 +8,8 @@ Gli incontri si tengono il secondo e quarto martedì del mese alle 21:00 ora Ita
 
 **Oratore:** Valentina
 
+[Video](https://drive.google.com/file/d/1VzXi57pv1Fnk6GjEaGdLILeE7jsTh1x2/view?usp=sharing)
+
 ## 13/06/2022
 
 **Tema:** Criptomonte 2
