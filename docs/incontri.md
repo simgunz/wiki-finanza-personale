@@ -2,6 +2,20 @@
 
 Gli incontri si tengono il secondo e quarto martedì del mese alle 21:00 ora Italiana su [Google Meet](https://meet.google.com/tkd-yavi-evb)
 
+## 28/11/2022
+
+**Tema:** Automatic crypto trading
+
+**Oratore:** David
+
+## 14/11/2022
+
+**Tema:** Retrospettiva
+
+**Oratore:** Simone
+
+[Presentazione](https://docs.google.com/presentation/d/1ZEGTpx5gTXG9uip4SX91zM-tPSLRB51ilFPxIRbbNtg/edit?usp=sharing)
+
 ## 27/06/2022
 
 **Tema:** ETF mercati emergenti
