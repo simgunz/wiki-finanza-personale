@@ -108,25 +108,64 @@ Per comprare ETF serve il broker:
 ## FAQ
 
 1. cos'è il rebalancing?
+
 2. meglio etf 100% azioni o parzialmente azionari, cosa ci dice il passato?
+
 3. in che modo è protetto il capitale da fallimenti vari?
+
 4. Costi conversione moneta?
    1. Obbligazioni sono in perdita perchè non sai il valore tra N anni di una moneta. Fondi Hedge -> Fissi su una valuta che vuoi, ma ci paghi questa "assicurazione" La cosa migliore è rimanere in europa
+   
 5. Le aziende possono dare obbligazioni (come fa uno stato, sono il loro debito)? Si
+
 6. Ci sono 2 share holder:
    1. common
    2. preferred: Abbastanza tutelati? (da verificare)
+   
 7. La liquidità perchè? per investire ogni mese un tot
+
 8. Mediare le perdite
+
 9. Quando l'azienda paga i dividendi questi scendono di valore? (da verificare)
+
 10. So effettivamente cosa sto comprando? Ogni fondo dice come sta investendo sulle loro pagine.
+
 11. Esistono simulatori di ETF? Forse su morningstar si possono fare simulazioni
+
 12. Quanto devo investire minimo in ETF? Ogni ETF va comprato intero e non a frazioni, bisogna valutare il valore dell'ETF in base a quanto metto.
+
 13. Costi di ingresso/uscita? Su Directa ci sono varie possibilità. Se prendi più di 5k paghi 1,5 euro. Non vale la pena prendere ogni mese perchè il costo è fisso.
+
 14. Quanto forniscono ETF? in media 7-8% (l'anno scorso era al 30%). In media se l'economia mondiale guadagna l'ETF sale.
+
 15. Vincoli su ETF? Nessuno, puoi liberartene quando vuoi
+
 16. Ribilanciamento: Se fissi 80% azioni e 20% obbligazioni -> col passare del tempo questa percentuale sballa e bisogna vendere/comprare per ribilanciare
+
 17. Costo di gestione dei bilanciamenti. I fondi si occupano di ribilanciare i tuoi investimenti ma questo a un costo -> Se vuoi cambiare profilo non è semplice.
     A livello di costi forse è meglio bilanciare da soli, perchè se cambi inizi ad avere molti costi fissi.
+    
 18. **Quale ETF prendere?** Magari evitare ETF sintetici perchè sono meno sicuri. Quelli Europei (ECITS), il fondo deve poter coprire almeno il 90% del valore per poter risarcire in caso di fallimento.
+
 19. Chi definisce l'indice degli ETF? Aziende esterne.
+
+20. Qual è l'impatto della sede dell'ETF?
+
+    > - MWRD - 0,18% TER - presta titoli - +73,97% in 5 anni
+    > - SWDA - 0,20% TER - presta titoli - +75,10% in 5 anni
+    >
+    > Diciamo che la differenza è un minimo di inefficienza sulla gestione  dei dividendi che vengono ogni volta passati in € e poi spesi nuovamente in $.
+    >
+    > Niente di così insopportabile ma è come avere un ter maggiorato di 0,20%.
+    >
+    > Se ti fa star meglio psicologicamente non è un problema.
+
+    https://old.reddit.com/r/ItaliaPersonalFinance/comments/x4tghe/etf_mwrd_vs_swda/imyv02q/
+
+    > Ireland is the most common domicile for non-US domiciled ETFs, although  Luxembourg is another popular non-US domicile for ETFs. Of the two,  Ireland has the better treatment for dividends from US stocks. ETFs  domiciled in Ireland can take advantage of the US/Ireland treaty rate of 15%, but because of a less favourable US treaty ETFs domiciled in  Luxembourg suffer 30% tax withholding on dividends from US stocks.[[6\]](https://www.bogleheads.org/wiki/Nonresident_alien's_ETF_domicile_decision_table#cite_note-8)[[7\]](https://www.bogleheads.org/wiki/Nonresident_alien's_ETF_domicile_decision_table#cite_note-9) In general then, if **avoiding** US domiciled ETFs you should **prefer** Ireland domiciled ETFs over Luxembourg domiciled ones unless the ETF itself holds no US stocks
+
+    https://www.bogleheads.org/wiki/Nonresident_alien%27s_ETF_domicile_decision_table#Recommendations_explained
+
+    https://old.reddit.com/r/ItaliaPersonalFinance/comments/x4tghe/etf_mwrd_vs_swda/in0tzzu/
+
+    
