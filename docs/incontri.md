@@ -2,6 +2,30 @@
 
 Gli incontri si tengono il secondo e quarto martedì del mese alle 21:00 ora Italiana su [Google Meet](https://meet.google.com/tkd-yavi-evb)
 
+## 28/02/2024
+
+**Tema:** FIRE
+
+**Oratore:** Alberto G.
+
+## 07/02/2024
+
+**Tema:** Obiettivi finanziari
+
+**Oratore:** Simone & community
+
+## 14/02/2023
+
+**Tema:** Conti correnti e conti deposito
+
+**Oratore:** Simone
+
+## 06/02/2023
+
+**Tema:** Obbligazioni
+
+**Oratore:** Simone
+
 ## 28/11/2022
 
 **Tema:** Automatic crypto trading
