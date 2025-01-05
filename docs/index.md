@@ -23,3 +23,16 @@ Benvenuto nella Wiki di finanza personale.
 - Per linkare un'altra pagina della wiki scrivere `[parole con il link](nome-file-pagina.md)` senza path ai file
 - Per auto-linkare un URL scrivere `<https://example.com>`
 
+# Registrare
+
+1. Eseguire il comando e seguire le istruzioni
+
+    ```
+    pwrecup
+    ```
+
+4. Impostare Discord per riprodurre su `Combined` output
+
+5. Registrare l'audio da `Combined` input
+
+6. Regolare il volume del microfono e di `Combined` per avere un volume bilanciato su recording
