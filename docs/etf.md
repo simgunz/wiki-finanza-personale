@@ -168,4 +168,11 @@ Per comprare ETF serve il broker:
 
     https://old.reddit.com/r/ItaliaPersonalFinance/comments/x4tghe/etf_mwrd_vs_swda/in0tzzu/
 
-    
+
+## Esempi di ETF
+
+| ISIN         | Ticker | Indice     | Rate | Tipo     | TER  | Volume  |                              |
+| ------------ | ------ | ---------- | ---- | -------- | ---- | ------- | ---------------------------- |
+| IE00B4L5Y983 |        | MSCI World | 70%  | Accumulo | 0.2  | 39,979m |                              |
+|              | LYX0YD | MSCI World |      |          | 0.12 | 1,809m  | Valutato, ma ha volume basso |
+| IE00BKMGz66  |        | EM IMI     | 30%  | Accumulo | 0.18 | 14,511  |                              |
