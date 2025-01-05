@@ -1,6 +1,26 @@
 # Incontri di discussione 
 
-Gli incontri si tengono il secondo e quarto martedì del mese alle 21:00 ora Italiana su [Google Meet](https://meet.google.com/tkd-yavi-evb)
+Gli incontri si tengono il secondo e quarto lunedì del mese alle 21:00 ora Italiana su Discord
+
+## (Tentative) 18/11/2024
+
+**Tema:** Comprare o affittare casa, sofware con AI
+
+**Oratore:** Simone
+
+## 09/12/2024
+
+**Tema:** Chiacchierata
+
+## 18/11/2024
+
+**Tema:** Comprare o affittare casa
+
+**Oratore:** Daniele
+
+## 04/11/2024
+
+**Tema:** Chiacchierata
 
 ## 28/02/2024
 
